@@ -216,10 +216,9 @@ body{
     width: 1320px;
   }
   .social_icon a{
-    padding: 20px;
-    font-size: 40px;
+    padding: 15px;
+    font-size: 30px;
   }
-
 .fa-brands{
   color: bisque;
   border: 2px solid white;
