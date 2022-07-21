@@ -253,20 +253,21 @@ body{
     border: 1px solid rgba(255, 255, 255, 0.1);
     width: 1320px;
   }
+  .social_icon a{
+    padding: 20px;
+    font-size: 40px;
+  }
 
 .fa-brands{
-  padding: 20px;
+  /* padding: 20px; */
   color: bisque;
-  font-size: 20px;
+  /* font-size: 20px; */
+  border: 2px solid white;
+  border-radius: 30px;
+  padding: 5px;
 }
-.fa-facebook{
-  color: blue;
-}
-.fa-twitter{
-  color: rgba(11, 159, 228, 0.582);
-}
-.fa-youtube{
-  color: red;
+.fa-facebook,.fa-twitter,.fa-youtube{
+  color: rgb(129, 97, 97);
 }
 
 /* Media Queries */
